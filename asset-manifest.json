@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clone_spotify/static/css/main.3e50bca8.css",
+    "main.js": "/clone_spotify/static/js/main.867327f5.js",
+    "static/media/profile.jpg": "/clone_spotify/static/media/profile.014587bc57dd785be414.jpg",
+    "static/media/logo.svg": "/clone_spotify/static/media/logo.d6b4f5c17d06dfd2c2dd011c4de39401.svg",
+    "index.html": "/clone_spotify/index.html",
+    "main.3e50bca8.css.map": "/clone_spotify/static/css/main.3e50bca8.css.map",
+    "main.867327f5.js.map": "/clone_spotify/static/js/main.867327f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e50bca8.css",
+    "static/js/main.867327f5.js"
+  ]
+}
